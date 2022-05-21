@@ -9,3 +9,17 @@
 <p align="center">
 <a href="mailto:info@pranonym.com"><code>Email me!</code></a>
 </p>
+
+<!-- About Section -->
+<details>
+    <summary><b> About </b></summary>
+    <p>
+<blockquote>
+Weirdly enough I'm not that good at writing "about me's", it has never been one of my strong suits. I'm a 24-year-old backend developer from London, with a passion and interest in data and automation. I got my start in "tech" through coding discord bots geared towards helping server users overcome addiction. As time has gone on I've developed other interests, but I still do actively develop a multip server addiction bot called Ricky.
+
+I genuinely have a passion for writing good code, and often am very anal developing unbloated, well-documented code Despite this I am still learning and fully expect to find new ways to achieve these. I have a care for privacy and security (that some would say verges on paranoia), and hope to one day start a youtube channel documenting ways people can protect their digital sovereignty. I plan in the near future to set up my own home-lab, and get into self-hosting my own infrastructure to help me achieve this.
+
+When AFK I'm into powerlifting and plan to eventually start playing American football again
+</blockquote>
+    </p>
+</details>
