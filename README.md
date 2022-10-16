@@ -12,7 +12,9 @@
 
 <!-- About Section -->
 <details>
-    <summary><b> About </b></summary>
+    <summary>
+        <b> About me </b>
+    </summary>
     <p>
     Hi, I am Eddie - I'm a Technical support specialist; Programmer; Cybersecurity researcher. I am currently trying to break into a career as an offensive security operative. I have a passion for privacy and security, open-source software, and automation
     </p>
@@ -24,3 +26,13 @@
     </p>
 </details>
 
+<!-- Blog Posts -->
+<details>
+    <summary>
+        <b>Latest Blog Posts</b>
+    </summary>
+    <p>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+    </p>
+</details>
