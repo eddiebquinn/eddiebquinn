@@ -14,12 +14,13 @@
 <details>
     <summary><b> About </b></summary>
     <p>
-    I'm not that good at writing about-me's, it has never been one of my strong suits. I'm a 24-year-old backend developer from London, with a passion and interest in data and automation. I got my start in tech through coding discord bots geared towards helping server users overcome addiction. As time has gone on I've developed other interests, but I still do actively develop a multiple server addiction bot called <a href=https://github.com/eddiebquinn/Ricky>Ricky</a>.
+    Hi, I am Eddie - I'm a Technical support specialist; Programmer; Cybersecurity researcher. I am currently trying to break into a career as an offensive security operative. I have a passion for privacy and security, open-source software, and automation
     </p>
     <p>
-    I genuinely have a passion for writing good code, and often am very anal developing unbloated, well-documented code Despite this I am still learning and fully expect to find new ways to achieve these. I have a care for privacy and security (that some would say verges on paranoia), and hope to one day start a youtube channel documenting ways people can protect their digital sovereignty. I plan shortly to set up my home lab and get into self-hosting my infrastructure to help me achieve this.
+    Predominantly my GitHub started as a portfolio, but as time has gone on a lot of my projects have ended up here. Some repo contains no real code at all, they are just for notes on 'the certs I'm studying for, the lang's I'm learning, or the static files for my website (generated using a Hugo). All this being said I do have some projects on here. The main one would be Ricky which is an open-source addiction recovery bot, on top of that I am attempting to recreate the Enigma machine. Both of these are long-term projects, both of which will likely never be completely done. For all small projects, I would highly recommend looking at the 'Micro Projects' repo.
     </p>
     <p>
-    When AFK I'm into powerlifting and plan to eventually start playing American football again
+    While my main language has been python for much of my time on this site, I am beginning to branch out. I am currently learning JS, and intend to learn Java after. In the long term, I want to learn Go, Rust, and C.
     </p>
 </details>
+
