@@ -17,6 +17,6 @@ jobs:
           feed_list: "https://eddiequinn.xyz/index.xml"
           max_post_count: 10
           readme_path: README.md
-          gh_token: ${{ secrets.BOT_GITHUB_TOKEN}}
+          gh_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           commit_message: 'chore: Updated recent blog posts'
 
