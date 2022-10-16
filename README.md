@@ -33,6 +33,9 @@
     </summary>
     <p>
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+- [How to harden SSH - Basic guide](https://eddiequinn.xyz/posts/harden_ssh/)
+- [Mfa Fatigue - The black sheep of the MFA family](https://eddiequinn.xyz/posts/mfa-fatigue/)
+- [Protonmail - A wolf in sheeps clothing](https://eddiequinn.xyz/posts/protonmail_wolfinsheepsclothing/)
+<!-- BLOG-POST-LIST:END -->
     </p>
 </details>
