@@ -23,7 +23,10 @@
     </p>
     <p>
     While my main language has been python for much of my time on this site, I am beginning to branch out. I am currently learning JS, and intend to learn Java after. In the long term, I want to learn Go, Rust, and C.
-    </p>
+
+---
+
+</p>
 </details>
 
 <!-- Blog Posts -->
@@ -36,6 +39,8 @@
 - [Mfa Fatigue - The black sheep of the MFA family](https://eddiequinn.xyz/posts/mfa-fatigue/)
 - [Protonmail - A wolf in sheeps clothing](https://eddiequinn.xyz/posts/protonmail_wolfinsheepsclothing/)
 <!-- BLOG-POST-LIST:END -->
-    
+
+---
+
 </p>
 </details>
