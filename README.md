@@ -17,8 +17,11 @@
     </summary>
     <p>
 <blockquote>
+
     Hi, I am Eddie - I'm a Technical support specialist; Programmer; Cybersecurity researcher. I am currently trying to break into a career as an offensive security operative. I have a passion for privacy and security, open-source software, and automation
+
     Predominantly my GitHub started as a portfolio, but as time has gone on a lot of my projects have ended up here. Some repo contains no real code at all, they are just for notes on 'the certs I'm studying for, the lang's I'm learning, or the static files for my website (generated using a Hugo). All this being said I do have some projects on here. The main one would be Ricky which is an open-source addiction recovery bot, on top of that I am attempting to recreate the Enigma machine. Both of these are long-term projects, both of which will likely never be completely done. For all small projects, I would highly recommend looking at the 'Micro Projects' repo.
+
     While my main language has been python for much of my time on this site, I am beginning to branch out. I am currently learning JS, and intend to learn Java after. In the long term, I want to learn Go, Rust, and C.
 </blockquote>
 
