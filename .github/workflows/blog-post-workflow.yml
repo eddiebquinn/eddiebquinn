@@ -21,7 +21,7 @@ jobs:
           commit_message: 'chore: Updated recent blog posts (short)'
       - name: pull into blogposts
         uses: gautamkrishnar/blog-post-workflow@v1
-          with:
+        with:
           feed_list: "https://eddiequinn.xyz/index.xml"
           max_post_count: 100
           readme_path: BLOG-POSTS.md
