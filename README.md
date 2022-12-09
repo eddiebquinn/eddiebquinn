@@ -1,5 +1,8 @@
+<!-- Title -->
 <h1 align="center">👹 Hey, Im Eddie!</h1>
 
+
+<!-- Socials -->
 <p align="center">
     <kbd>
         <a href="https://github.com/eddiebquinn"><img src="https://img.shields.io/badge/-eddiebquinn-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
@@ -8,6 +11,7 @@
     </kbd>
 </p>
 
+<!-- Contact and keys -->
 <p align="center">
 <a href="mailto:info@pranonym.com"><code>Email me!</code></a>
 </p>
