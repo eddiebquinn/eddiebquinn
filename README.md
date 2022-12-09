@@ -1,11 +1,16 @@
 <!-- Title -->
 <h1 align="center">👹 Hey, Im Eddie!</h1>
 
+<!-- Contact and keys -->
+<p align="center">
+<a href="mailto:info@pranonym.com"><code>Email me!</code></a> | <a href="https://keybase.io/eddiequinn/pgp_keys.asc?fingerprint=4e0d4ec322cc420b2e3cc4a0f05f4ed3310f1c9d" title="Main Public Key"><code>F05F 4ED3 310F 1C9D</code></a> | <a href="https://keybase.io/eddiequinn/pgp_keys.asc?fingerprint=a8aa280f68c36310ca597eba176d6e7df8ef51a8" title="Git Public Key"><code>176D 6E7D F8EF 51A8</code></a>
+</p>
 
 <!-- Socials -->
 <p align="center">
     <kbd>
         <a href="https://github.com/eddiebquinn"><img src="https://img.shields.io/badge/-eddiebquinn-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+        <a href="https://keybase.io/eddiequinn" title="Keybase - Eddie Quinn"><img src="https://img.shields.io/badge/-eddiequinn-5e78ef?style=flat&logo=keybase&logoColor=white" /></a>
         <a href="https://eddiequinn.xyz/"><img src="https://img.shields.io/badge/-eddiequinn.xyz-FF0000?style=flat&logo=Hugo&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/edward-b-quinn/"><img src="https://img.shields.io/badge/-edward_b--quinn-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
     </kbd>
