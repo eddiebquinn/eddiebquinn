@@ -16,11 +16,6 @@
     </kbd>
 </p>
 
-<!-- Contact and keys -->
-<p align="center">
-<a href="mailto:info@pranonym.com"><code>Email me!</code></a>
-</p>
-
 <!-- About Section -->
 <details>
     <summary><b> 🕵🏻 About me </b></summary>
