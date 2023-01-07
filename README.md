@@ -41,6 +41,9 @@ While my main language has been python for much of my time on this site, I am be
 <p>
 
 <!-- BLOG-POST-LIST:START -->
+- [A post where I talk about my weight](https://eddiequinn.xyz/posts/a-post-where-i-talk-about-my-weight/)
+- [Choosing life isnt as bad as you think](https://eddiequinn.xyz/posts/choose-life/)
+- [My goals for 2023](https://eddiequinn.xyz/posts/2023-goals/)
 - [How to harden SSH - Basic guide](https://eddiequinn.xyz/posts/harden_ssh/)
 - [Mfa Fatigue - The black sheep of the MFA family](https://eddiequinn.xyz/posts/mfa-fatigue/)
 - [Protonmail - A wolf in sheep&#39;s clothing](https://eddiequinn.xyz/posts/protonmail_wolfinsheepsclothing/)
