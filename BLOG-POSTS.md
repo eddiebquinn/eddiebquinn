@@ -1,6 +1,7 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The oddly freeing experiance of studying in Starbucks](https://eddiequinn.xyz/posts/yeet/)
 - [A post where I talk about my weight](https://eddiequinn.xyz/posts/a-post-where-i-talk-about-my-weight/)
 - [Choosing life isnt as bad as you think](https://eddiequinn.xyz/posts/choose-life/)
 - [My goals for 2023](https://eddiequinn.xyz/posts/2023-goals/)
