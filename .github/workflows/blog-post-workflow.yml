@@ -6,7 +6,7 @@ on:
 
 jobs:
   get-posts:
-    name: Get posts from RSS feed
+    name: Update short blog-post list
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -15,11 +15,13 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://eddiequinn.xyz/index.xml"
-          max_post_count: 10
+          max_post_count: 5
           readme_path: README.md
           gh_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           commit_message: 'chore: Updated recent blog posts (short)'
-      - name: pull into blogposts
+          committer_username: 'reddiebrek'
+          committer_email: 'github.bot@pranonym.com'
+      - name: Update long blog-post list
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://eddiequinn.xyz/index.xml"
@@ -27,4 +29,5 @@ jobs:
           readme_path: BLOG-POSTS.md
           gh_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           commit_message: 'chore: Updated recent blog posts (long)'
-
+          committer_username: 'reddiebrek'
+          committer_email: 'github.bot@pranonym.com'
