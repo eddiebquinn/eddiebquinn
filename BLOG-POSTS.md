@@ -1,6 +1,7 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 Goals Updates](https://eddiequinn.xyz/posts/2023/feb/2023-goals-updates/)
 - [ChatGPT is a two-edged sword](https://eddiequinn.xyz/posts/2023/jan/gpt3-the-best-teacher-you-never-had/)
 - [Finite by Design](https://eddiequinn.xyz/posts/2023/jan/finite-by-design/)
 - [LOL Limewire](https://eddiequinn.xyz/posts/2023/jan/lol-limewire/)
