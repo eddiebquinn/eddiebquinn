@@ -41,11 +41,11 @@ While my main language has been python for much of my time on this site, I am be
 <p>
 
 <!-- BLOG-POST-LIST:START -->
+- [LDMR](https://eddiequinn.xyz/posts/2023/feb/ldmr/)
 - [2023 Goals Updates](https://eddiequinn.xyz/posts/2023/feb/2023-goals-updates/)
 - [ChatGPT is a two-edged sword](https://eddiequinn.xyz/posts/2023/jan/gpt3-the-best-teacher-you-never-had/)
 - [Finite by Design](https://eddiequinn.xyz/posts/2023/jan/finite-by-design/)
 - [LOL Limewire](https://eddiequinn.xyz/posts/2023/jan/lol-limewire/)
-- [The oddly freeing experiance of studying in Starbucks](https://eddiequinn.xyz/posts/2023/jan/studying-in-starbucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
