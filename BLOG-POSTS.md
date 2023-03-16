@@ -1,6 +1,7 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chess](https://eddiequinn.xyz/posts/2023/mar/chess/)
 - [Diet Drinks are Still Bad](https://eddiequinn.xyz/posts/2023/feb/diet-drinks-still-bad/)
 - [LDMR](https://eddiequinn.xyz/posts/2023/feb/ldmr/)
 - [2023 Goals Updates](https://eddiequinn.xyz/posts/2023/feb/2023-goals-updates/)
