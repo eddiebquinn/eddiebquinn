@@ -1,6 +1,9 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TENET and the reverse pincer movement](https://eddiequinn.xyz/posts/2023/mar/tenet-a_film_about_a_military_tactic/)
+- [Intermittent Fasting](https://eddiequinn.xyz/posts/2023/mar/intermitent-fasting/)
+- [2023 Goals - March update](https://eddiequinn.xyz/posts/2023/mar/2023_goals-m_update/)
 - [Chess](https://eddiequinn.xyz/posts/2023/mar/chess/)
 - [Diet Drinks are Still Bad](https://eddiequinn.xyz/posts/2023/feb/diet-drinks-still-bad/)
 - [LDMR](https://eddiequinn.xyz/posts/2023/feb/ldmr/)
