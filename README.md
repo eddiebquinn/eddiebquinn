@@ -41,11 +41,11 @@ While my main language has been python for much of my time on this site, I am be
 <p>
 
 <!-- BLOG-POST-LIST:START -->
+- [TENET and the reverse pincer movement](https://eddiequinn.xyz/posts/2023/mar/tenet-a_film_about_a_military_tactic/)
+- [Intermittent Fasting](https://eddiequinn.xyz/posts/2023/mar/intermitent-fasting/)
+- [2023 Goals - March update](https://eddiequinn.xyz/posts/2023/mar/2023_goals-m_update/)
 - [Chess](https://eddiequinn.xyz/posts/2023/mar/chess/)
 - [Diet Drinks are Still Bad](https://eddiequinn.xyz/posts/2023/feb/diet-drinks-still-bad/)
-- [LDMR](https://eddiequinn.xyz/posts/2023/feb/ldmr/)
-- [2023 Goals Updates](https://eddiequinn.xyz/posts/2023/feb/2023-goals-updates/)
-- [ChatGPT is a two-edged sword](https://eddiequinn.xyz/posts/2023/jan/gpt3-the-best-teacher-you-never-had/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
