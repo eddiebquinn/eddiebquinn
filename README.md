@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:info@pranonym.com"><code>Email me!</code></a> | <a href="https://keybase.io/eddiequinn/pgp_keys.asc?fingerprint=4e0d4ec322cc420b2e3cc4a0f05f4ed3310f1c9d" title="Main Public Key"><code>F05F 4ED3 310F 1C9D</code></a> | <a href="https://keybase.io/eddiequinn/pgp_keys.asc?fingerprint=a8aa280f68c36310ca597eba176d6e7df8ef51a8" title="Git Public Key"><code>176D 6E7D F8EF 51A8</code></a>
+<a href="mailto:info@pranonym.com"><code>Email me!</code></a> | <a href="https://keybase.io/eddiequinn/pgp_keys.asc?fingerprint=f177401d0e0bb16d0a7e17486a9db3ae22586f96" title="Main Public Key"><code>6A9D B3AE 2258 6F96</code></a>
 </p>
 
 <!-- Socials -->
