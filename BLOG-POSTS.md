@@ -1,6 +1,9 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My encryption problem](https://eddiequinn.xyz/posts/2023/may/hugos-encryption-problem/)
+- [Dunning Kruger](https://eddiequinn.xyz/posts/2023/may/dunning-kruger/)
+- [Why I Left Social Media](https://eddiequinn.xyz/posts/2023/may/why-i-left-social-meedia/)
 - [Public Key](https://eddiequinn.xyz/publickey/)
 - [Encryption](https://eddiequinn.xyz/posts/2023/april/encryption/)
 - [Certification Roadmap](https://eddiequinn.xyz/posts/2023/mar/certification-roadmap/)
