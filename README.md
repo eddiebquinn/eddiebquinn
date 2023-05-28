@@ -41,11 +41,11 @@ While my main language has been python for much of my time on this site, I am be
 <p>
 
 <!-- BLOG-POST-LIST:START -->
+- [My encryption problem](https://eddiequinn.xyz/posts/2023/may/hugos-encryption-problem/)
+- [Dunning Kruger](https://eddiequinn.xyz/posts/2023/may/dunning-kruger/)
+- [Why I Left Social Media](https://eddiequinn.xyz/posts/2023/may/why-i-left-social-meedia/)
 - [Public Key](https://eddiequinn.xyz/publickey/)
 - [Encryption](https://eddiequinn.xyz/posts/2023/april/encryption/)
-- [Certification Roadmap](https://eddiequinn.xyz/posts/2023/mar/certification-roadmap/)
-- [TENET and the reverse pincer movement](https://eddiequinn.xyz/posts/2023/mar/tenet-a_film_about_a_military_tactic/)
-- [Intermittent Fasting](https://eddiequinn.xyz/posts/2023/mar/intermitent-fasting/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
