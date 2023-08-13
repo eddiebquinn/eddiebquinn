@@ -1,6 +1,7 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Search for Meaning](https://eddiequinn.xyz/posts/2023/aug/my-search-for-meaning/)
 - [The Best Way to Use Reddit](https://eddiequinn.xyz/posts/2023/jun/the-best-way-to-use-reddit/)
 - [My encryption problem](https://eddiequinn.xyz/posts/2023/may/hugos-encryption-problem/)
 - [Dunning Kruger](https://eddiequinn.xyz/posts/2023/may/dunning-kruger/)
