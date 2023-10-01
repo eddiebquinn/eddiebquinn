@@ -1,12 +1,12 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Distro Install Guide](https://eddiequinn.xyz/posts/2023/sept/my-distro-install-guide/)
 - [My Search for Meaning](https://eddiequinn.xyz/posts/2023/aug/my-search-for-meaning/)
 - [The Best Way to Use Reddit](https://eddiequinn.xyz/posts/2023/jun/the-best-way-to-use-reddit/)
 - [My encryption problem](https://eddiequinn.xyz/posts/2023/may/hugos-encryption-problem/)
 - [Dunning Kruger](https://eddiequinn.xyz/posts/2023/may/dunning-kruger/)
 - [Why I Left Social Media](https://eddiequinn.xyz/posts/2023/may/why-i-left-social-meedia/)
-- [Public Key](https://eddiequinn.xyz/publickey/)
 - [Encryption](https://eddiequinn.xyz/posts/2023/april/encryption/)
 - [Certification Roadmap](https://eddiequinn.xyz/posts/2023/mar/certification-roadmap/)
 - [TENET and the reverse pincer movement](https://eddiequinn.xyz/posts/2023/mar/tenet-a_film_about_a_military_tactic/)
