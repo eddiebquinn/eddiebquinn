@@ -1,7 +1,9 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Distro Install Guide](https://eddiequinn.xyz/posts/2023/sept/my-distro-install-guide/)
+- [Travel Checklist](https://eddiequinn.xyz/nts/travel-checklist/)
+- [Hcpp 2023](https://eddiequinn.xyz/posts/2023/sept/hcpp-2023/)
+- [My Distro Install Guide](https://eddiequinn.xyz/nts/my-distro-install-guide/)
 - [My Search for Meaning](https://eddiequinn.xyz/posts/2023/aug/my-search-for-meaning/)
 - [The Best Way to Use Reddit](https://eddiequinn.xyz/posts/2023/jun/the-best-way-to-use-reddit/)
 - [My encryption problem](https://eddiequinn.xyz/posts/2023/may/hugos-encryption-problem/)
@@ -19,7 +21,7 @@
 - [ChatGPT is a two-edged sword](https://eddiequinn.xyz/posts/2023/jan/gpt3-the-best-teacher-you-never-had/)
 - [Finite by Design](https://eddiequinn.xyz/posts/2023/jan/finite-by-design/)
 - [LOL Limewire](https://eddiequinn.xyz/posts/2023/jan/lol-limewire/)
-- [The oddly freeing experiance of studying in Starbucks](https://eddiequinn.xyz/posts/2023/jan/studying-in-starbucks/)
+- [The oddly freeing experience of studying in Starbucks](https://eddiequinn.xyz/posts/2023/jan/studying-in-starbucks/)
 - [A post where I talk about my weight](https://eddiequinn.xyz/posts/2023/jan/a-post-where-i-talk-about-my-weight/)
 - [Choosing life isnt as bad as you think](https://eddiequinn.xyz/posts/2023/jan/choose-life/)
 - [My goals for 2023](https://eddiequinn.xyz/posts/2023/jan/2023-goals/)
