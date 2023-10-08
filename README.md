@@ -41,11 +41,11 @@ While my main language has been python for much of my time on this site, I am be
 <p>
 
 <!-- BLOG-POST-LIST:START -->
-- [My Distro Install Guide](https://eddiequinn.xyz/posts/2023/sept/my-distro-install-guide/)
+- [Travel Checklist](https://eddiequinn.xyz/nts/travel-checklist/)
+- [Hcpp 2023](https://eddiequinn.xyz/posts/2023/sept/hcpp-2023/)
+- [My Distro Install Guide](https://eddiequinn.xyz/nts/my-distro-install-guide/)
 - [My Search for Meaning](https://eddiequinn.xyz/posts/2023/aug/my-search-for-meaning/)
 - [The Best Way to Use Reddit](https://eddiequinn.xyz/posts/2023/jun/the-best-way-to-use-reddit/)
-- [My encryption problem](https://eddiequinn.xyz/posts/2023/may/hugos-encryption-problem/)
-- [Dunning Kruger](https://eddiequinn.xyz/posts/2023/may/dunning-kruger/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
