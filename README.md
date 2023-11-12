@@ -41,11 +41,11 @@ While my main language has been python for much of my time on this site, I am be
 <p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Homelab](https://eddiequinn.xyz/build-logs/homelab/)
-- [Where Do Governments Derive Their Right to Rule](https://eddiequinn.xyz/posts/2023/oct/where-do-goverments-derive-their-right-to-rule/)
-- [Travel Checklist](https://eddiequinn.xyz/nts/travel-checklist/)
-- [Hcpp 2023](https://eddiequinn.xyz/posts/2023/sept/hcpp-2023/)
-- [My Distro Install Guide](https://eddiequinn.xyz/nts/my-distro-install-guide/)
+- [4- New Plan](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/new-plan/)
+- [3- Revisiting My Encryption Problem](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/revisiting-my-encryption-problem/)
+- [Z - Services to Be Added](https://eddiequinn.xyz/build-logs/homelab/z-services-to-be-added/)
+- [02 - VPN Server](https://eddiequinn.xyz/build-logs/homelab/02-vpn-server/)
+- [01 - DNS Server](https://eddiequinn.xyz/build-logs/homelab/01-dns-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
