@@ -1,13 +1,20 @@
 # Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 - progress?](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/progress/)
+- [I&#39;m not dead](https://eddiequinn.xyz/posts/2025/april/i-am-not-dead/)
+- [My Goals for 2024](https://eddiequinn.xyz/posts/2023/dec/2024-goals/)
+- [Attempt 1 - Wireguard Ubuntu](https://eddiequinn.xyz/build-logs/homelab/02-vpn-server/attempt1-wireguard-ubuntu/)
+- [7- Fixes](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/fixes/)
+- [IPoAC](https://eddiequinn.xyz/posts/2023/nov/ipoac/)
+- [6- Mvp](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/mvp/)
+- [Verify this post &lpar;I dare you&rpar;](https://eddiequinn.xyz/posts/2023/nov/verify-this-post/)
+- [5- Progress?](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/progress/)
 - [PGP in Depth](https://eddiequinn.xyz/posts/2023/nov/pgp-in-depth/)
 - [Todo list](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/to-do/)
 - [4- New Plan](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/new-plan/)
 - [3- Revisiting My Encryption Problem](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/revisiting-my-encryption-problem/)
 - [Z - Services to Be Added](https://eddiequinn.xyz/build-logs/homelab/z-services-to-be-added/)
-- [02 - VPN Server](https://eddiequinn.xyz/build-logs/homelab/02-vpn-server/)
+- [Attempt 0 - Wireguard OpenBSD](https://eddiequinn.xyz/build-logs/homelab/02-vpn-server/attempt0-wiregaurd-openbsd/)
 - [01 - DNS Server](https://eddiequinn.xyz/build-logs/homelab/01-dns-server/)
 - [00 - Planning and Infrastructure](https://eddiequinn.xyz/build-logs/homelab/00-planning-and-infrastructure/)
 - [Where Do Governments Derive Their Right to Rule](https://eddiequinn.xyz/posts/2023/oct/where-do-goverments-derive-their-right-to-rule/)
