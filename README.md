@@ -41,11 +41,11 @@ While my main language has been python for much of my time on this site, I am be
 <p>
 
 <!-- BLOG-POST-LIST:START -->
-- [5 - progress?](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/progress/)
-- [PGP in Depth](https://eddiequinn.xyz/posts/2023/nov/pgp-in-depth/)
-- [Todo list](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/to-do/)
-- [4- New Plan](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/new-plan/)
-- [3- Revisiting My Encryption Problem](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/revisiting-my-encryption-problem/)
+- [I&#39;m not dead](https://eddiequinn.xyz/posts/2025/april/i-am-not-dead/)
+- [My Goals for 2024](https://eddiequinn.xyz/posts/2023/dec/2024-goals/)
+- [Attempt 1 - Wireguard Ubuntu](https://eddiequinn.xyz/build-logs/homelab/02-vpn-server/attempt1-wireguard-ubuntu/)
+- [7- Fixes](https://eddiequinn.xyz/build-logs/eddiequinn.xyz/signing-posts/fixes/)
+- [IPoAC](https://eddiequinn.xyz/posts/2023/nov/ipoac/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](/BLOG-POSTS.md)**
