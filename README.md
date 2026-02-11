@@ -24,16 +24,12 @@ Currently working in enterprise technical support while transitioning into infra
 Most operational infrastructure lives in private GitLab repositories.  
 This GitHub contains selected public projects — implementations I’m willing to stand behind.
 
----
-
 ## Selected Projects
 
 - **Infrastructure Lab** – Multi-node Proxmox environment with automated provisioning and HA K3s cluster.
 - **Automation Tooling** – Operational scripting (PowerShell/Python) focused on reducing MTTR and manual overhead.
 - **Declarative Systems** – Nix-based configuration management with Git as a single source of truth.
 - **Algorithmic Work** – Brainfuck interpreter and Huffman encoder implemented from first principles.
-
----
 
 ## Principles
 
