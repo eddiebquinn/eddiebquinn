@@ -4,11 +4,11 @@ Infrastructure • Automation • Security Hygiene
 </p>
 <p align="center">
 <a
-href="mailto:eddie@b-quinn.com">contact</a> •
+href="mailto:eddie@b-quinn.com">Contact</a> •
 <a
-href="https://eddiequinn.xyz">blog</a> •
+href="https://eddiequinn.xyz">Blog</a> •
 <a
-href="https://keys.openpgp.org/vks/v1/by-fingerprint/CA98D5946FA3A374BA7E2D8FB254FBF3F060B796">pgp</a>
+href="https://keys.openpgp.org/vks/v1/by-fingerprint/CA98D5946FA3A374BA7E2D8FB254FBF3F060B796">PGP</a>
 </p>
 
 ---
